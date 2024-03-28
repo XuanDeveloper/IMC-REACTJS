@@ -23,11 +23,11 @@ Fornece uma classificação do estado nutricional do usuário com base no IMC ca
 Clone este repositório para o seu ambiente local:
 
 ```bash
-  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  [git clone https://github.com/XuanDeveloper/IMC-REACTJS.git]
 ```
 Navegue até o diretório do projeto:
 ```bash
-  cd nome-do-repositorio
+  cd Calculadora-de-IMC
 ```
 Instale as dependências do projeto:
 ```bash
