@@ -9,10 +9,6 @@ Este é um projeto simples desenvolvido em ReactJS para calcular o Índice de Ma
 
 O Índice de Massa Corporal (IMC) é uma medida utilizada para avaliar se uma pessoa está com o peso adequado em relação à sua altura. Este projeto consiste em uma aplicação web que permite aos usuários calcular seu IMC inserindo sua altura e peso. Com base nesses valores, a aplicação retorna o IMC calculado e uma classificação correspondente ao estado nutricional do usuário.
 
-# Funcionalidades
-
-Calcula o Índice de Massa Corporal (IMC) com base na altura e no peso fornecidos pelo usuário.
-Fornece uma classificação do estado nutricional do usuário com base no IMC calculado.
 ## Funcionalidades
 
 - Calcula o Índice de Massa Corporal (IMC) com base na altura e no peso fornecidos pelo usuário.
