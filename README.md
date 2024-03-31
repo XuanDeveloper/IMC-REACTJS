@@ -19,7 +19,7 @@ O Índice de Massa Corporal (IMC) é uma medida utilizada para avaliar se uma pe
 Clone este repositório para o seu ambiente local:
 
 ```bash
-  [git clone https://github.com/XuanDeveloper/IMC-REACTJS.git]
+  git clone https://github.com/XuanDeveloper/IMC-REACTJS.git
 ```
 Navegue até o diretório do projeto:
 ```bash
